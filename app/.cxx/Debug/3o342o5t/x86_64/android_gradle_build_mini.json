@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "D:\\4IIR 2eme S\\Secu_app_mobiles\\Lab23_devmobil\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\YOUNESS\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\4IIR 2eme S\\Secu_app_mobiles\\Lab23_devmobil\\app\\.cxx\\Debug\\3o342o5t\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\YOUNESS\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\4IIR 2eme S\\Secu_app_mobiles\\Lab23_devmobil\\app\\.cxx\\Debug\\3o342o5t\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "artifactName": "native-lib",
+      "abi": "x86_64",
+      "output": "D:\\4IIR 2eme S\\Secu_app_mobiles\\Lab23_devmobil\\app\\build\\intermediates\\cxx\\Debug\\3o342o5t\\obj\\x86_64\\libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

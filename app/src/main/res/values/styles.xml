@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.JniDemo" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/brand_primary_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>
